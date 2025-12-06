@@ -2,9 +2,9 @@
 
 namespace AichaDigital\LaraticketsFilament;
 
+use AichaDigital\LaraticketsFilament\Commands\LaraticketsFilamentCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use AichaDigital\LaraticketsFilament\Commands\LaraticketsFilamentCommand;
 
 class LaraticketsFilamentServiceProvider extends PackageServiceProvider
 {

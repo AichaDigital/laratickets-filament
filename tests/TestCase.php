@@ -2,9 +2,9 @@
 
 namespace AichaDigital\LaraticketsFilament\Tests;
 
+use AichaDigital\LaraticketsFilament\LaraticketsFilamentServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use AichaDigital\LaraticketsFilament\LaraticketsFilamentServiceProvider;
 
 class TestCase extends Orchestra
 {
