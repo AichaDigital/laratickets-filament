@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AichaDigital\LaraticketsFilament\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaraticketsFilamentCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laratickets-filament';
 
     public $description = 'My command';
 
