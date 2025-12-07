@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace AichaDigital\LaraticketsFilament;
 
-use AichaDigital\LaraticketsFilament\Commands\LaraticketsFilamentCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
