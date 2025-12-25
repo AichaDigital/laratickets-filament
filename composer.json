@@ -15,6 +15,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/AichaDigital/laratickets.git"
+        }
+    ],
     "require": {
         "php": "^8.3",
         "aichadigital/laratickets": "dev-main || ^0.1",
